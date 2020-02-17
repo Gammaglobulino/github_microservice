@@ -59,5 +59,3 @@ func CreateRepo(accessToken string, request github.CreateRepoRequest) (*github.C
 	}
 	return &result, nil
 }
-
-//token f3f8ddd86857deba4afa4e9501b88ae7362ebe13
